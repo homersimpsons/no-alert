@@ -7,5 +7,5 @@ Denies the calls to `alert`, `confirm` and `prompt`.
 ```javascript
 alert('test'); // ❌
 confirm('test'); // ❌
-prompt('test); // ❌
+prompt('test'); // ❌
 ```
