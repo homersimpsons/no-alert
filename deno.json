@@ -1,9 +1,9 @@
 {
-    "lint": {
-        "plugins": ["./no-alert.ts"]
-    },
-    "name": "@homersimpsons/no-alert",
-    "version": "0.1.0",
-    "license": "MIT",
-    "exports": "./no-alert.ts"
+  "lint": {
+    "plugins": ["./no-alert.ts"]
+  },
+  "name": "@homersimpsons/no-alert",
+  "version": "0.1.0",
+  "license": "MIT",
+  "exports": "./no-alert.ts"
 }
